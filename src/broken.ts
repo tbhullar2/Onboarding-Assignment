@@ -4,7 +4,7 @@ export function greet(name) {
     const message = "Hello, " + name;
     console.log(message);
     return message;
-} // Missing explicit return type and parameter type
+} // Missing explicit return type and parameter typ
 
 class Greeter {
     message;
